@@ -1,7 +1,7 @@
 ## Hey guys!
  
 
-### Daniel T. Rodrigues
+### Martin C.
 
 Exploring the world, searching for balance, and building some systems.
 
